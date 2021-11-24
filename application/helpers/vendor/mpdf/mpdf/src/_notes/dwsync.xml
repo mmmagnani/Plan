@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Barcode.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="Cache.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="CssManager.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="DirectWrite.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="Form.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="FpdiTrait.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="functions-dev.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="Gradient.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="HTMLParserMode.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="Hyphenator.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="Mpdf.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="MpdfException.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="MpdfImageException.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="Otl.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="OtlDump.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="PageFormat.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="RemoteContentFetcher.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="ServiceFactory.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="SizeConverter.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="Strict.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="TableOfContents.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="Tag.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="TTFontFile.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="TTFontFileAnalysis.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+<file name="Ucdn.php" local="132089108000000000" remote="132149517000000000" testing="0" />
+</dwsync>
